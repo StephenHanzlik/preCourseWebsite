@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+  color: #e28d05;
+}
+
+p {
+  text-align: center;
+
+}
+
+body {
+  background-color: #333
+}
+
+.jumbotron {
+  background-image: url(Images/jumbo3.png);
+  background-size: cover;
+  height: 700px;
+  color: #e28d05;
+}
+
+.icons {
+  display: inline-flex;
+  margin-left: 45.2%;
+  margin-right: 30%;
+}
+
+.introp {
+  color: #9d9d9d;
+  font-size: 24px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#head-right {
+  float: right;
+  margin-left: 900px;
+}
+
+#excited {
+  margin-top: 80px;
+}
+
+#cookie {
+  height: 206px;
+  width: 320px;
+  margin-bottom: 30px;
+}
+
+#eggbert{
+  height: 350px;
+  width: 270px;
+  margin-top: 50px;
+}
+
+#eggp {
+  font-size: 18px;
+}
